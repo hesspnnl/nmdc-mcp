@@ -1,0 +1,7 @@
+httpx
+mcp
+nmdc_api_utilities
+anthropic
+dotenv
+asyncio
+contextlib
